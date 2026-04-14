@@ -1,0 +1,8 @@
+﻿l_korean:
+ liberal_democracy_drift_tt:0 " $liberal_democracy_drift$: $RIGHT|+=2$"
+ nationalism_drift_tt:0 " $nationalism_drift$: $RIGHT|+=2$"
+ oligarchal_collectivism_drift_tt:0 " $oligarchal_collectivism_drift$: $RIGHT|+=2$"
+ despotism_drift_tt:0 " $despotism_drift$: $RIGHT|+=2$"
+ socialism_drift_tt: " $socialism_drift$: $RIGHT|+=2$"
+ resistance_activity_tt: " $MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R=%1$"
+ training_time_factor_tt: " $MODIFIER_TRAINING_TIME_FACTOR$: $RIGHT|-=%1$"

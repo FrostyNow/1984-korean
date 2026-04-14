@@ -1,0 +1,8 @@
+﻿l_korean:
+ NEWSHEADER_DESC:0 "[Root.GetNewspaperHeader]"
+ 1984_news_header_generic_localization_key:0 "£GFX_news_event_header_Generic\n\n\n\n\n"
+ 1984_news_header_oceania_localization_key:0 "£GFX_news_event_header_OCA\n\n\n\n\n"
+ 1984_news_header_eurasia_localization_key:0 "£GFX_news_event_header_EUR\n\n\n\n\n"
+ 1984_news_header_eastasia_localization_key:0 "£GFX_news_event_header_ESA\n\n\n\n\n"
+ 1984_news_header_ukraine_localization_key:0 "£GFX_news_event_header_UKR\n\n\n\n\n"
+ 1984_news_header_soviet_ukraine_localization_key:0 "£GFX_news_event_header_NOV\n\n\n\n\n"

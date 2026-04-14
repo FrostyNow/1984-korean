@@ -1,0 +1,10 @@
+﻿l_korean:
+ BRO_Oceania_Resistance_decision_category:0 "Oceanian Resistance"
+ BRO_USA_decision:0 "Play the §Y[USA.GetName]§!"
+ BRO_ENG_decision:0 "Play the §Y[ENG.GetName]§!"
+ BRO_Eurasian_Resistance_decision_category:0 "Eurasian Resistance"
+ BRO_FRA_decision:0 "Play the §Y[FRA.GetName]§!"
+ BRO_RUS_decision:0 "Play the §Y[RUS.GetName]§!"
+ BRO_Eastasian_Resistance_decision_category:0 "Eastasian Resistance"
+ BRO_CHI_decision:0 "Play the §Y[CHI.GetName]§!"
+ BRO_JAP_decision:0 "Play the §Y[JAP.GetName]§!"

@@ -1,0 +1,9 @@
+﻿l_korean:
+ CHE:0 "Mountain Federation of Caucasus"
+ CHE_DEF:0 "the Mountain Federation of Caucasus"
+ CHE_ADJ:0 "Caucasian"
+ CHE_Causacian_Switzerland_decision_category:0 "Caucasian Confederation"
+ CHE_Causacian_Switzerland_decision_category_desc:0 "The project of a federation in the Caucasus, proposed by Gamsakhurdia and Dudaev, aims to unite all peoples into a single state, creating a kind of \"Caucasian Switzerland\" that would become a reliable guarantor of security instead of fragmented peoples that are easy to conquer."
+ CHE_integrate_caucasian:0 "Integrate [CAU.GetNameWithFlag]"
+ CHE_integrate_caucasian_desc:0 "South of us, the Caucasian Free Army is suffering from internal instability and separatist sentiments. We can help them by offering them to join our \"Caucasian Switzerland\" project."
+ CHE_Dzhokhar_Dudayev_character_loc:0 "Dzhokhar Dudayev"

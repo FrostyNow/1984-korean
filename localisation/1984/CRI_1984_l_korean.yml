@@ -1,0 +1,13 @@
+﻿l_korean:
+ CRI:0 "Republic Qirim"
+ CRI_DEF:0 "the Republic Qirim"
+ CRI_ADJ:0 "Crimean"
+ CRI_UKR_subject:0 "Autonomous Republic of Crimea"
+ CRI_UKR_subject_DEF:0 "the Autonomous Republic of Crimea"
+ CRI_UKR_subject_ADJ:0 "Crimean"
+ CRI_UKR_despotism_subject:0 "Khazarian Khaganate"
+ CRI_UKR_despotism_subject_DEF:0 "the Khazarian Khaganate"
+ CRI_UKR_despotism_subject_ADJ:0 "Khazarian"
+ CRI_Mustafa_Abdulcemil_character_loc:0 "Mustafa Abdülcemil"
+ CRI_kurultai_long:0 "$CRI_kurultai$"
+ CRI_kurultai:0 "Kurultai"
